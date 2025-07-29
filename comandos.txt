@@ -1,0 +1,5 @@
+git status - mostra o estado atual do repositório
+git log - exibe o histórico de commits
+git diff - mostra diferenças entre versões
+git branch - gerencia branches do repositório
+git checkout - navega entre branches ou commits
