@@ -1,3 +1,8 @@
 git init - inicializa um repositório Git
 git add - adiciona arquivos para staging
 git commit - salva as mudanças no repositório
+
+Explicações:
+- git init: Cria um novo repositório Git local na pasta atual
+- git add: Move arquivos do working directory para staging area
+- git commit: Salva permanentemente as mudanças do staging no histórico
